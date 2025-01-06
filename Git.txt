@@ -1,0 +1,16 @@
+Git 설치
+
+원하는 폴더 Git bash 선택
+
+git init + Enter
+
+
+sourcetree설치후
+
+
+
+
+
+
+https://github.com/G-money12/java_work.git
+
