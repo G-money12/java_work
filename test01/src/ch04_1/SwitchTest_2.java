@@ -2,8 +2,8 @@ package ch04_1;
 
 public class SwitchTest_2 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{	// TODO Auto-generated method stub
 		// 3~5 , 6~8, 9~11, 12~2
 //		int C=1;
 //		String season="";
@@ -50,7 +50,7 @@ public class SwitchTest_2 {
 	
 	
 	
-	
+	}
 	
 	
 
