@@ -23,9 +23,6 @@ public class ScannerEX {
 		System.out.println(age);
 		System.out.println(weight);
 		System.out.println(single);
-			
-		
-		
 	}
 
 }

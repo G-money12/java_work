@@ -8,9 +8,7 @@ public class IfEx01 {
 		if(score>70) {
 			System.out.println(score);
 			System.out.println("합격");
-		}
-		
-	else{
+		}else{
 		System.out.println("불합격");
 		System.out.println("다시 도전하세요");
 		
